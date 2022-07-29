@@ -1,6 +1,7 @@
 # Halo Infinite API
 
 A Overall Documentation Of The Entire Halo Infinite API
+
 ```Note: All Documentation Is Done By Myself & May Not Be Entirely Accurate!```
 
 
