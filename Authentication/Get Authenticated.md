@@ -19,3 +19,8 @@ Lets Begin By Creating A Postman Account!
 3 - Continue Without A Team On The Last Form!
 
 <img src="https://raw.githubusercontent.com/Sennful/Halo-Infinite-API/main/Images/postmanforms2.png" width="700" height="300">
+
+## Postman Setup
+
+Lets Start By Creating A New Collection!
+
