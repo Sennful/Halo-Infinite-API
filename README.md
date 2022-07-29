@@ -2,6 +2,8 @@
 
 A Overall Documentation Of The Entire Halo Infinite API
 
+```Please Read: How To Get [Authienticated](other_file.md) To Learn How To Get Authenticated!```
+
 ```Note: All Documentation Is Done By Myself & May Not Be Entirely Accurate!```
 
 ```Note: All Examples & Samples Will Be Eventually Be Updated To Be Used Across Multiple Coding Libraries```
