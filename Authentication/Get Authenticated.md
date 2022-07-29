@@ -10,4 +10,4 @@ Lets Begin By Creating A Postman Account!
 
 1 - Begin By Signing Up With Your Email And Create A Password!
 
-<img src="https://raw.githubusercontent.com/Sennful/Halo-Infinite-API/main/Images/postmansignup.png" width="500" height="300">
+<img src="https://raw.githubusercontent.com/Sennful/Halo-Infinite-API/main/Images/postmansignup.png" width="700" height="300">
