@@ -2,7 +2,7 @@
 
 A Overall Documentation Of The Entire Halo Infinite API
 
-Please Read: How To Get [Authienticated](Get%20Authenticated.md) To Learn How To Get Authenticated!
+Please Read: How To Get [Authienticated](https://github.com/Sennful/Halo-Infinite-API/blob/39ecc9a112a41138d5c14954ac831f0a6ab899f1/Authentication/Get%20Authenticated.md) To Learn How To Get Authenticated!
 
 ```Note: All Documentation Is Done By Myself & May Not Be Entirely Accurate!```
 
