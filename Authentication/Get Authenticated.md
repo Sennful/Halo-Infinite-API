@@ -12,7 +12,7 @@ Lets Begin By Creating A Postman Account!
 
 <img src="https://raw.githubusercontent.com/Sennful/Halo-Infinite-API/main/Images/postmansignup.png" width="700" height="300">
 
-2 - Begin By Filling Out The Necessary Form!
+2 - Begin By Filling Out The Necessary Forms!
 
 <img src="https://raw.githubusercontent.com/Sennful/Halo-Infinite-API/main/Images/postmanforms.png" width="700" height="300">
 
