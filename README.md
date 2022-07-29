@@ -4,6 +4,8 @@ A Overall Documentation Of The Entire Halo Infinite API
 
 ```Note: All Documentation Is Done By Myself & May Not Be Entirely Accurate!```
 
+```Note: All Examples & Samples Will Be Eventually Be Updated To Be Used Across Multiple Coding Libraries```
+
 
 ## Support
 
